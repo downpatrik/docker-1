@@ -40,6 +40,4 @@ eval $(docker-machine env Char)
 # Update your rc file
 source ~/.zshrc
 
-# https://github.com/gavinfielder/42-docker-1
-# https://github.com/mikim42/docker-1
-# https://github.com/acuD1/docker-1
+# https://github.com/Joao-Henrique/Docker_Medium_Tutorial
